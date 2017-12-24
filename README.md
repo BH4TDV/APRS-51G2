@@ -1,6 +1,6 @@
 # APRS-51G2
 
-## 51G2-20171225A firware
+## 51G2-20171225A firmware
 
 Download link：[51G2-20171225A Firmware](https://github.com/BH4TDV/APRS-51G2/raw/master/firmware/51G2_20171225A.exe)
 
